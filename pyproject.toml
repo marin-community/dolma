@@ -31,7 +31,6 @@ dependencies = [
     "tokenizers==0.21",
     "tqdm",
     "uniseg",
-    "numpy<2",
     "necessary>=0.4.3",
     "zstandard>=0.23.0",
 ]
