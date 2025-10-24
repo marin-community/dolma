@@ -28,7 +28,7 @@ dependencies = [
     "rich",
     "s3fs>=2024",
     "smart-open>=7.0.4",
-    "tokenizers==0.21",
+    "tokenizers>=0.21,<0.23",
     "tqdm",
     "uniseg",
     "necessary>=0.4.3",
